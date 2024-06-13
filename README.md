@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deployment Using Flask**
 
-- Build **Stock price prediction**
+- Build **Stock price prediction using sentiment analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arpittyagi-19](https://github.com/arpittyagi-19)
 

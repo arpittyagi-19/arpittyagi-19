@@ -1,3 +1,4 @@
+<h1 align="center">Hi, My name is Arpit Tyagi</h1>
 <h3 align="center">Data Scientist/Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpittyagi-19&label=Profile%20views&color=0e75b6&style=flat" alt="arpittyagi-19" /> </p>

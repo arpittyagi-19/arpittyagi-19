@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Data Analysis and Machine Learning**
 
-- 📫 How to reach me **arpittyagi9306@gmail.com**
+- 📫 Reach/Mail me **arpittyagi9306@gmail.com**
 
 - 📄 Resume [https://drive.google.com/drive/folders/1OzhNwHARjYFiXdPYe_SCZMq_hp825yUK?usp=sharing](https://drive.google.com/drive/folders/1OzhNwHARjYFiXdPYe_SCZMq_hp825yUK?usp=sharing)
 

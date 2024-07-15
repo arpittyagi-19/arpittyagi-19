@@ -3,23 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpittyagi-19&label=Profile%20views&color=0e75b6&style=flat" alt="arpittyagi-19" /> </p>
 
-- Currently Working on **Customer segmentation (clustering)**
+- Currently Working on **BOOK RECOMMENDER SYSTEM**
 
-- 🌱 I’m currently learning **Deployment Using Flask**
+- 🌱Learning **Deployment Using Flask on AWS**
 
 - Build **Stock price prediction using sentiment analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arpittyagi-19](https://github.com/arpittyagi-19)
 
-- 📝 Here is my Linkedin Profile [https://www.linkedin.com/in/arpit-tyagi-b73510279/](https://www.linkedin.com/in/arpit-tyagi-b73510279/)
+- 📝 My Linkedin Profile [https://www.linkedin.com/in/arpit-tyagi-b73510279/](https://www.linkedin.com/in/arpit-tyagi-b73510279/)
 
-- 💬 Ask me about **Data Analysis and Machine Learning**
+- 💬 Ask me any quesries or solutions about **Data Analysis and Machine Learning**
 
 - 📫 Reach/Mail me **arpittyagi9306@gmail.com**
 
 - 📄 Resume [https://drive.google.com/drive/folders/1OzhNwHARjYFiXdPYe_SCZMq_hp825yUK?usp=sharing](https://drive.google.com/drive/folders/1OzhNwHARjYFiXdPYe_SCZMq_hp825yUK?usp=sharing)
 
-- ⚡ Fun fact **where do machine learning engineer go on camping?Random forest**
+- ⚡ Fun fact **where do machine learning engineer go on camping?Random forest😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

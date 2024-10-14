@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpittyagi-19&label=Profile%20views&color=0e75b6&style=flat" alt="arpittyagi-19" /> </p>
 
-- Currently Working on **BOOK RECOMMENDER SYSTEM**
+- Currently Working on **SENTIMENT ANALYSIS NLP**
 
 - 🌱Learning **Deployment Using Flask on AWS**
 
 - Build **Stock price prediction using sentiment analysis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/arpittyagi-19](https://github.com/arpittyagi-19)
+- 👨‍💻My projects are available at [https://github.com/arpittyagi-19?tab=repositories]([https://github.com/arpittyagi-19](https://github.com/arpittyagi-19?tab=repositories))
 
-- 📝 My Linkedin Profile [https://www.linkedin.com/in/arpit-tyagi-b73510279/](https://www.linkedin.com/in/arpit-tyagi-b73510279/)
+- 📝 Linkedin Profile [https://www.linkedin.com/in/arpit-tyagi-b73510279/](https://www.linkedin.com/in/arpit-tyagi-b73510279/)
 
 - 💬 Ask me any quesries or solutions about **Data Analysis and Machine Learning**
 

@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpittyagi-19&label=Profile%20views&color=0e75b6&style=flat" alt="arpittyagi-19" /> </p>
 
-- Currently Working on **SENTIMENT ANALYSIS NLP**
+- Currently Working on **Large Language Modeling**
 
-- 🌱Learning **Deployment Using Flask on AWS**
+- 🌱Learning **Generative AI**
 
-- Build **Stock price prediction using sentiment analysis**
+- Build **Medicine Recommender System**
 
 - 👨‍💻My projects are available at [https://github.com/arpittyagi-19?tab=repositories]([https://github.com/arpittyagi-19](https://github.com/arpittyagi-19?tab=repositories))
 
